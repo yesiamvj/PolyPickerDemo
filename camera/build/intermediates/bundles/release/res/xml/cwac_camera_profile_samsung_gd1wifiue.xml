@@ -1,0 +1,8 @@
+<!-- Galaxy Camera (WiFi?) -->
+<deviceProfile>
+
+	<maxPictureHeight>
+3072
+	</maxPictureHeight>
+
+</deviceProfile><!-- From: file:/E:/android/poly-picker-master/PolyPickerDemo/camera/res/xml/cwac_camera_profile_samsung_gd1wifiue.xml -->

@@ -1,0 +1,12 @@
+<!-- Galaxy S4 (SGH-I337) -->
+<deviceProfile>
+
+	<maxPictureHeight>
+2448
+	</maxPictureHeight>
+
+	<recordingHint>
+STILL_ONLY
+	</recordingHint>
+
+</deviceProfile><!-- From: file:/E:/android/poly-picker-master/PolyPickerDemo/camera/res/xml/cwac_camera_profile_samsung_jflteuc.xml --><!-- From: file:/E:/android/poly-picker-master/PolyPickerDemo/camera/build/intermediates/bundles/debug/res/xml/cwac_camera_profile_samsung_jflteuc.xml -->
